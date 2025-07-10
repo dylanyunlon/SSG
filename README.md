@@ -1,1 +1,1 @@
-# SSG
+# Though Language Models Err While They Strive: Conformal Prediction for Self-Correcting Scientific Generation
